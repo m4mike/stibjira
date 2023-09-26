@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
+
 TOKEN = "pat"
 API_URL = "https://stib.net"
 
